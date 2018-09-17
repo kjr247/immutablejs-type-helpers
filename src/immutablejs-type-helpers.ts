@@ -7,7 +7,6 @@ import { fromJS, Iterable, Map, OrderedMap, Set } from 'immutable'
    * Access immutable objects through a functional interface with partial application
    */
 import { curry } from 'ramda'
-import { MetaProperty } from 'estree'
 
 const has = curry(<T>(imObj: Map<string, T>, key: string) => {
   return imObj.has(key)
