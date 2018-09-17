@@ -22,8 +22,8 @@ cd("docs")
 touch(".nojekyll")
 exec("git init")
 exec("git add .")
-exec('git config user.name "Wes King"')
-exec('git config user.email "wes@boone.io"')
+exec('git config user.name "Kyle Rebstock"')
+exec('git config user.email "kjr247@gmail.com"')
 exec('git commit -m "docs(docs): update gh-pages"')
 exec(
   `git push --force --quiet "https://${ghToken}@${repository}" master:gh-pages`
