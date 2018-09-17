@@ -29,7 +29,7 @@
     "semantic-release-prepare": "ts-node tools/semantic-release-prepare",
     "semantic-release": "semantic-release",
     "start": "rollup -c rollup.config.ts -w",
-    "test:prod": "npm run lint && npm run test",
+    "test:prod": "npm run lint && npm run test -- --coverage --no-cache",
     "test:watch": "jest --watch",
     "test": "jest",
     "travis-deploy-once": "travis-deploy-once"
