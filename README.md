@@ -1,6 +1,10 @@
-# immutablejs-type-helpers
+<h1 align="center">
+  <img src="https://imgur.com/a/EDZWQOe" height="150" width="150"/>
+  <p align="center">Immutablejs-type-helpers</p>
+  <p align="center" style="font-size: 0.5em">🃏 Delightfully sweet helpers for ImmutableJs.</p>
+</h1>
 
-A set of functional helpers to assist with type checking with Immutable.js and TypeScript
+A set of functional helpers to assist with type checking, getting, defaulting, etc. with Immutable.js and TypeScript
 
 # Motivation
 
