@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.imgur.com/tuepUj3.jpg" height="150" width="150"/>
-  <p align="center">Immutablejs-type-helpers</p>
+  <p align="center">immutablejs-type-helpers</p>
   <p align="center" style="font-size: 0.5em">🃏 Delightfully sweet helpers for ImmutableJs.</p>
 </h1>
 
